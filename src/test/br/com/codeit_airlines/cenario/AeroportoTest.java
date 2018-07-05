@@ -3,7 +3,7 @@ package br.com.codeit_airlines.cenario;
 import br.com.codeit_airlines.cenario.AeroportoBuilder.Aeroporto;
 import br.com.codeit_airlines.personagem.*;
 import org.junit.Assert;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.util.List;
 

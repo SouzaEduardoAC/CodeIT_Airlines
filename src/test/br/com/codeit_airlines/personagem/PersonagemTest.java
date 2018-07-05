@@ -1,7 +1,7 @@
 package br.com.codeit_airlines.personagem;
 
 import org.junit.Assert;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class PersonagemTest {
 
